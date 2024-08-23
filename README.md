@@ -1,1 +1,2 @@
-# COVID-19-Data-Insights-Analysis-Trends-and-Visualizations
+# COVID-19-Insights
+This project is made using SQL and Tableau.
